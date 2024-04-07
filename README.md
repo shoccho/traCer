@@ -19,5 +19,8 @@ I made it just to learn more about how to do some things in c, there is no inten
  ### Usage
  after building the executable you can trace any command like strace for example
 
- `./tracer ls` would output
+ `./tracer echo` would output
+ 
+![image](https://github.com/shoccho/traCer/assets/33720947/93653699-d363-44fd-90b5-051a16bf0697)
+
 
